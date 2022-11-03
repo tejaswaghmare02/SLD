@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Thanks.db30621c-5acc-11ed-94b3-cc6b1e31f13f.jpg</filename>
+	<path>C:\Users\hp\Desktop\Project-I\SignLanguageDetection\Tensorflow\workspace\images\collectedimages\Thanks.db30621c-5acc-11ed-94b3-cc6b1e31f13f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>208</ymin>
+			<xmax>505</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>
